@@ -12,6 +12,19 @@ I credit him for his code and attach the following links as attibution and for r
 https://www.youtube.com/watch?v=8BWjyZxGr5o
 https://github.com/ZainUlMustafa/
 
+I have modified the original code to only recieve data, deal with large amounts of transmitted data. Emulate mouse and keyboard via the "windows.h" library and automatically scan for COM ports.
+
 How to run the program:
+
+1- Upload the code under "arduinokeyboardjoystick" to an ardunio uno and connect 9 push switches with pull down resistors to 
+digital pins 2-10. Then connect a joystick with its axes pins to analogue pins A1 and A2 and the built in button to analogue pin A0.
+
+2 - Run the executable file in this repository, scan for COM port and use the device - it will probably not be very efficient and will have significant time delays.
+
+
+
+
+
+
 
 
