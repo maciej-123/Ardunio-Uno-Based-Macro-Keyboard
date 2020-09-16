@@ -1,0 +1,8 @@
+﻿  mousekeyboard.cpp
+c:\users\maciej\documents\imperial\arduino\keyboard\mousekeyboard\main\mousekeyboard.cpp(170): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\maciej\documents\imperial\arduino\keyboard\mousekeyboard\main\mousekeyboard.cpp(383): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\maciej\documents\imperial\arduino\keyboard\mousekeyboard\main\mousekeyboard.cpp(396): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\maciej\documents\imperial\arduino\keyboard\mousekeyboard\main\mousekeyboard.cpp(401): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\maciej\documents\imperial\arduino\keyboard\mousekeyboard\main\mousekeyboard.cpp(406): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\maciej\documents\imperial\arduino\keyboard\mousekeyboard\main\mousekeyboard.cpp(411): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  main.vcxproj -> C:\Users\Maciej\Documents\Imperial\Arduino\keyboard\mousekeyboard\Debug\main.exe
