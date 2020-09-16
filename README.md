@@ -22,7 +22,7 @@ digital pins 2-10. Then connect a joystick with its axes pins to analogue pins A
 2 - Run the executable file in this repository, scan for COM port and use the device - it will probably not be very efficient and will have significant time delays.
 
 
-
+See image for reference.
 
 
 
