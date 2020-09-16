@@ -7,9 +7,10 @@ This is a 10 button and Joystick based Macro Keyboard designed to execute basic 
 Since Ardunio Uno is not directly capable of acting as a HID device/ emulating a keyboard, I wrote a secondary program in C++ to read data sent by the ardunio uno and then send the corresponding commands to windows using the "windows.h" library to emulate keystrokes and mouse events.
 
 The program reads the serial port Github user's ZainUlMustafa's, program for reading data sent by ardunio to a serial port in a computer.
-I credit him for his code and attach the following links as attibution and for reference.
+I credit him for his code and attach the following links for attibution and reference.
 
 https://www.youtube.com/watch?v=8BWjyZxGr5o
+
 https://github.com/ZainUlMustafa/
 
 I have modified the original code to only recieve data, deal with large amounts of transmitted data. Emulate mouse and keyboard via the "windows.h" library and automatically scan for COM ports.
